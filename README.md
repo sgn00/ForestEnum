@@ -17,7 +17,7 @@ The following is what the script outputs:
 
 1.Trust relationships the forest has
 
-2.TGT delegation configuration with other forests and child domains
+2.TGT delegation configuration with other domains
 
 3.Whether the print spooler service is running
 
