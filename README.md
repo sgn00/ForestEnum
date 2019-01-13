@@ -1,6 +1,8 @@
 # ForestEnum
 A small script to enumerate server configurations to prevent a forest trust attack as detailed by harmj0y (https://www.harmj0y.net/blog/redteaming/not-a-security-boundary-breaking-forest-trusts/).
 
+*Disclaimer: This script has not been extensively tested.
+
 ## How to use?
 1.Import Recon module from Powersploit (https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon)
 
