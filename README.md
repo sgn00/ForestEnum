@@ -19,3 +19,6 @@ The following is what the script outputs:
 
 3.Whether the print spooler service is running
 
+
+![alt text](./sample.png)
+
